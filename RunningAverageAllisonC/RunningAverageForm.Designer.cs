@@ -65,7 +65,7 @@
             // btnCalculate
             // 
             this.btnCalculate.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculate.Location = new System.Drawing.Point(27, 135);
+            this.btnCalculate.Location = new System.Drawing.Point(15, 135);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(88, 30);
             this.btnCalculate.TabIndex = 3;
@@ -77,7 +77,7 @@
             // 
             this.lblAverage.AutoSize = true;
             this.lblAverage.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAverage.Location = new System.Drawing.Point(37, 207);
+            this.lblAverage.Location = new System.Drawing.Point(12, 207);
             this.lblAverage.Name = "lblAverage";
             this.lblAverage.Size = new System.Drawing.Size(0, 18);
             this.lblAverage.TabIndex = 4;

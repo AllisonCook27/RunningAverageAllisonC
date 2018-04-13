@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\bin\Debug\RunningAverageAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\bin\Debug\RunningAverageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\bin\Debug\RunningAverageAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.frmRunningAverage.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\RunningAverageAllisonC\RunningAverageAllisonC\obj\Debug\RunningAverageAllisonC.pdb
